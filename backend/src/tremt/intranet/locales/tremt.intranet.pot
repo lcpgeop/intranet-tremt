@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-10-01 13:26+0000\n"
+"POT-Creation-Date: 2025-10-01 13:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -39,6 +39,10 @@ msgstr ""
 
 #: tremt/intranet/behaviors/endereco.py:45
 msgid "CEP"
+msgstr ""
+
+#: tremt/intranet/content/pessoa.py:12
+msgid "Cargo"
 msgstr ""
 
 #: tremt/intranet/vocabularies/estados.py:14
