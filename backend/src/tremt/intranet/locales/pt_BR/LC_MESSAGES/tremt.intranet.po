@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-09-30 21:55+0000\n"
+"POT-Creation-Date: 2025-09-30 23:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,8 +14,20 @@ msgstr ""
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: DOMAIN\n"
 
+#: tremt/intranet/content/area.py:14
+msgid "Contato"
+msgstr ""
+
 #: tremt/intranet/profiles.zcml:23
 msgid "Create example content to showcase the new website"
+msgstr ""
+
+#: tremt/intranet/content/area.py:21
+msgid "Email"
+msgstr ""
+
+#: tremt/intranet/content/area.py:27
+msgid "Informe o telefone de contato"
 msgstr ""
 
 #: tremt/intranet/profiles.zcml:23
@@ -34,6 +46,18 @@ msgstr ""
 msgid "Package to configure a new Intranet TRE-MT site"
 msgstr ""
 
+#: tremt/intranet/content/area.py:26
+msgid "Telefone"
+msgstr ""
+
+#: tremt/intranet/profiles/default/types/Area.xml
+msgid "Uma Área dentro do TRE-MT"
+msgstr ""
+
 #: tremt/intranet/profiles.zcml:31
 msgid "Uninstall Intranet TRE-MT setup."
+msgstr ""
+
+#: tremt/intranet/profiles/default/types/Area.xml
+msgid "Área"
 msgstr ""
