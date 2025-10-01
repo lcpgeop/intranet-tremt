@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-10-01 15:27+0000\n"
+"POT-Creation-Date: 2025-10-01 15:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -95,6 +95,10 @@ msgstr ""
 
 #: tremt/intranet/behaviors/contato.py:30
 msgid "Informe o telefone de contato"
+msgstr ""
+
+#: tremt/intranet/profiles/default/registry/plone.app.querystring.interfaces.IQueryField.xml
+msgid "Intranet"
 msgstr ""
 
 #: tremt/intranet/profiles.zcml:23
@@ -203,6 +207,26 @@ msgstr ""
 
 #: tremt/intranet/profiles.zcml:31
 msgid "Uninstall Intranet TRE-MT setup."
+msgstr ""
+
+#. Default: "Filtrar por Área."
+#: tremt/intranet/profiles/default/registry/plone.app.querystring.interfaces.IQueryField.xml
+msgid "description_area"
+msgstr ""
+
+#. Default: "Filtrar por cargo."
+#: tremt/intranet/profiles/default/registry/plone.app.querystring.interfaces.IQueryField.xml
+msgid "description_cargo"
+msgstr ""
+
+#. Default: "Área"
+#: tremt/intranet/profiles/default/registry/plone.app.querystring.interfaces.IQueryField.xml
+msgid "label_area"
+msgstr ""
+
+#. Default: "Cargo"
+#: tremt/intranet/profiles/default/registry/plone.app.querystring.interfaces.IQueryField.xml
+msgid "label_cargo"
 msgstr ""
 
 #: tremt/intranet/profiles/default/types/Area.xml
