@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-10-01 15:58+0000\n"
+"POT-Creation-Date: 2025-10-02 02:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -146,6 +146,10 @@ msgstr ""
 msgid "Pernambuco"
 msgstr ""
 
+#: tremt/intranet/profiles/default/types/Pessoa.xml
+msgid "Pessoa"
+msgstr ""
+
 #: tremt/intranet/vocabularies/estados.py:26
 msgid "Piauí"
 msgstr ""
@@ -196,6 +200,10 @@ msgstr ""
 
 #: tremt/intranet/vocabularies/estados.py:35
 msgid "Tocantins"
+msgstr ""
+
+#: tremt/intranet/profiles/default/types/Pessoa.xml
+msgid "Uma Pessoa colaboradora do TRE-MT"
 msgstr ""
 
 #: tremt/intranet/profiles/default/types/Area.xml
